@@ -6,7 +6,7 @@
     "email": "adarwawan@gmail.com",
     "phone": "",
     "website": "https://adarwawan.github.io",
-    "summary": "I am I am a student at Informatics/Computer Science in Institut Teknologi Bandung, Indonesia. I am enthusiastic about technology, sports, and social community.",
+    "summary": "I am a student at Informatics/Computer Science in Institut Teknologi Bandung, Indonesia. I am enthusiastic about technology, sports, and social community.",
     "location": {
       "address": "Jalan Kalibaru Barat IV No. 38",
       "postalCode": "14110",
@@ -39,10 +39,8 @@
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "web development",
       "keywords": [
-        "Arduino",
-        "TI MSP430"
       ]
     },
     {
@@ -51,8 +49,16 @@
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "system analysis",
       "keywords": [
+      ]
+    },
+    {
+      "name": "network security",
+      "keywords": [
+        "crypthography",
+        "attack/defense",
+        "misc"
       ]
     }
   ],
@@ -64,100 +70,147 @@
         "C",
         "C++",
         "Java",
-        "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "Javascript (with VanillaJS, AngularJS, ReactJS)",
+        "Python",
+        "HTML5",
+        "PHP (with CodeIgniter)",
+        "CSS (with Bootstrap)"
       ]
     },
     {
       "name": "Toolsets/OS",
       "level": "",
       "keywords": [
-        "MacOS",
         "Ubuntu",
         "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "Weka",
+        "Android Studio",
+        "Arduino"
+      ]
+    },
+    {
+      "name": "Design Software",
+      "level": "",
+      "keywords": [
+        "Adobe Photoshop",
+        "Camtasia Studio"
       ]
     }
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "institution": "Institut Teknologi Bandung, Indonesia",
+      "area": "Informatics/Computer Science (expected October, 2017)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "startDate": "2013",
       "endDate": "Present",
       "gpa": "",
       "courses": [
+        "Strategy Algorithm",
+        "Algorithm and Data Structure",
+        "Object-Oriented Programming",
+        "Project of Software",
+        "Artificial Intelligence",
+        "Database Management",
+        "Computer Network",
+        "Parallel and Distributed System",
+        "Human Computer Interface"
       ]
     }
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "Ecosystem SME Innovation Lab, PT. Telekomunikasi Indonesia Tbk.",
+      "position": "Software Engineer Intern",
       "website": "",
-      "startDate": "2015-08-01",
-      "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "startDate": "2016-06-01",
+      "endDate": "2016-08-05",
+      "summary": "Analysis and Build software for SME Business Solution",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
+      "company": "Computational Science and Engineering Lab, Institut Teknologi Bandung",
+      "position": "Assistant Laboratory",
+      "website": "",
+      "startDate": "2015",
+      "endDate": "2017",
       "summary": "",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Assist lecturers to design assignments and quizzes",
+        "Research about computational science and engineering"
       ]
     }
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
+      "organization": "Himpunan Mahasiswa Informatika, Institut Teknologi Bandung (HMIF ITB)",
+      "website": "http://hmif.itb.ac.id",
+      "position": "",
+      "startDate": "2014-05-01",
       "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "summary": "",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
+        "Leader of Development System Committe, Member of Representative Council (DPP) - 2016",
+        "Leader of Internal Committe, Member of Representative Council (DPP) - 2015",
+        "Member - 2014"
       ]
     },
     {
-      "organization": "",
+      "organization": "SPARTA HMIF 2015",
       "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
+      "position": "Member of Security Division",
+      "startDate": "2015-05-01",
+      "endDate": "2015-09-12",
+      "summary": "Committe of Recruitment Process for New Member of HMIF",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+      ]
+    },
+    {
+      "organization": "Professional and Leadership Orientation",
+      "website": "",
+      "position": "Member of Mentor Division",
+      "startDate": "2014-05-01",
+      "endDate": "2014-06-01",
+      "summary": "Committe of Orientation for First Year SEEI students",
+      "highlights": [
+      ]
+    },
+    {
+      "organization": "Arak-arakan Wisuda HMIF",
+      "website": "",
+      "position": "Field Commander",
+      "startDate": "2015-07-01",
+      "endDate": "2015-10-31",
+      "summary": "Become field commander in 2 times (August and October 2015)",
+      "highlights": [
       ]
     }
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "title": "Best Graduate (Individual)",
+      "date": "2013",
+      "awarder": "SMAN 13 Jakarta",
+      "summary": "I got highest score for National and School Test in my high school"
     },
     {
-      "title": "First place",
+      "title": "DPP of The Year (Individual)",
       "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "awarder": "Himpunan Mahasiswa Informatika, Institut Teknologi Bandung (HMIF)",
+      "summary": "Achievement for Most Dedicated Member in DPP HMIF"
+    },
+    {
+      "title": "Semifinalist (Team)",
+      "date": "2013",
+      "awarder": "Medical Science and Application Competition 2012, FK Universitas Airlangga",
+      "summary": "My team reached semifinal (TOP 20) in this regional competition (Se Jawa-Bali)"
+    },
+    {
+      "title": "Finalist (Team)",
+      "date": "2016",
+      "awarder": "FIT Competition 2016, Universitas Kristen Satya Wacana",
+      "summary": "I joined in Mavisang Team and reached final (TOP 10) for Network Category in this national competition"
     }
   ],
   "references": [
