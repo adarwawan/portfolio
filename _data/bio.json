@@ -11,7 +11,7 @@
       "address": "Jalan Kalibaru Barat IV No. 38",
       "postalCode": "14110",
       "city": "Jakarta",
-      "countryCode": "",
+      "countryCode": "Indonesia (ID)",
       "region": ""
     },
     "profiles": [
@@ -156,6 +156,15 @@
       ]
     },
     {
+      "organization": "Arak-arakan Wisuda HMIF",
+      "website": "",
+      "position": "Field Commander",
+      "endDate": "2015-10-31",
+      "summary": "Become field commander in 2 times (August and October 2015)",
+      "highlights": [
+      ]
+    },
+    {
       "organization": "SPARTA HMIF 2015",
       "website": "",
       "position": "Member of Security Division",
@@ -170,15 +179,6 @@
       "position": "Member of Mentor Division",
       "endDate": "2014-06-01",
       "summary": "Committe of Orientation for First Year SEEI students",
-      "highlights": [
-      ]
-    },
-    {
-      "organization": "Arak-arakan Wisuda HMIF",
-      "website": "",
-      "position": "Field Commander",
-      "endDate": "2015-10-31",
-      "summary": "Become field commander in 2 times (August and October 2015)",
       "highlights": [
       ]
     }
