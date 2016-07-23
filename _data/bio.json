@@ -1,39 +1,39 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Ahmad Darmawan",
     "label": "Student",
     "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2018.",
+    "email": "adarwawan@gmail.com",
+    "phone": "",
+    "website": "https://adarwawan.github.io",
+    "summary": "I am I am a student at Informatics/Computer Science in Institut Teknologi Bandung, Indonesia. I am enthusiastic about technology, sports, and social community.",
     "location": {
-      "address": "",
-      "postalCode": "96822",
-      "city": "Honolulu",
-      "countryCode": "USA",
-      "region": "Hawaii"
+      "address": "Jalan Kalibaru Barat IV No. 38",
+      "postalCode": "14110",
+      "city": "Jakarta",
+      "countryCode": "",
+      "region": ""
     },
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "adarwawan",
+        "url": "http://github.com/adarwawan"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
-      },
-      {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
+        "username": "adarwawan",
+        "url": "http://linkedin.com/in/adarwawan"
       },
       {
         "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "username": "adarwawan",
+        "url": "http://instagram.com/adarwawan"
+      },
+      {
+        "network": "facebook",
+        "username": "adarwawan",
+        "url": "http://facebook.com/adarwawan"
       }
     ]
   },
