@@ -44,8 +44,11 @@
       ]
     },
     {
-      "name": "data mining",
+      "name": "intelligent system",
       "keywords": [
+        "data mining",
+        "AI",
+        "text-processing"
       ]
     },
     {
@@ -59,6 +62,11 @@
         "crypthography",
         "attack/defense",
         "misc"
+      ]
+    },
+    {
+      "name": "information management",
+      "keywords": [
       ]
     }
   ],
