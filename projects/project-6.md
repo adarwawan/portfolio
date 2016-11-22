@@ -2,7 +2,7 @@
 layout: project
 type: project
 published: true
-image: images/tic-tac-toe.png
+image: images/tictactoe.png
 title: Tic-Tac-Toe
 permalink: projects/tictactoe
 date: 2014

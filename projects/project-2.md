@@ -2,11 +2,11 @@
 layout: project
 type: project
 published: true
-image: images/bounce-screen.png
-title: Bounce
-permalink: projects/bounce
-date: 2016
+image: images/raisha.png
+title: Raisha
+permalink: projects/raisha
+date: 2015
 labels:
-  - Unity
-summary: Game dengan Unity. Mengadopsi dari game simple endless runner dengan beberapa improvisasi.
+  - UI/UX
+summary: Membuat desain aplikasi ride sharing berbasis mobile dengan kaidah UI/UX.
 ---
