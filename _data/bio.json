@@ -44,17 +44,20 @@
       ]
     },
     {
-      "name": "maching learning",
+      "name": "intelligent system",
       "keywords": [
-      ]
-    },
-    {
-      "name": "natural language processing",
-      "keywords": [
+        "data mining",
+        "AI",
+        "text-processing"
       ]
     },
     {
       "name": "system analysis",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "information management",
       "keywords": [
       ]
     }
