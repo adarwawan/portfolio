@@ -2,7 +2,7 @@
 layout: project
 type: project
 published: true
-image: images/disdukcapil.png
+image: images/disdukcapill.png
 title: E-Gov Disdukcapil
 permalink: projects/disdukcapil
 date: 2016
