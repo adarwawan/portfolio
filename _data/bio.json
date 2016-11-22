@@ -44,21 +44,18 @@
       ]
     },
     {
-      "name": "data mining",
+      "name": "maching learning",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "natural language processing",
       "keywords": [
       ]
     },
     {
       "name": "system analysis",
       "keywords": [
-      ]
-    },
-    {
-      "name": "network security",
-      "keywords": [
-        "crypthography",
-        "attack/defense",
-        "misc"
       ]
     }
   ],
@@ -69,12 +66,13 @@
       "keywords": [
         "C",
         "C++",
-        "Java",
-        "Javascript (with VanillaJS, AngularJS, ReactJS)",
+        "Java (and JAX-WS)",
+        "Javascript",
         "Python",
         "HTML5",
         "PHP (with CodeIgniter)",
-        "CSS (with Bootstrap)"
+        "CSS (with Bootstrap)",
+        "Android"
       ]
     },
     {
@@ -83,9 +81,7 @@
       "keywords": [
         "Ubuntu",
         "Git/GitHub",
-        "Weka",
-        "Android Studio",
-        "Arduino"
+        "Weka"
       ]
     },
     {
@@ -185,10 +181,16 @@
   ],
   "awards": [
     {
-      "title": "Best Graduate (Individual)",
-      "date": "2013",
-      "awarder": "SMAN 13 Jakarta",
-      "summary": "I got highest score for National and School Test in my high school"
+      "title": "Honorable Mention (Team)",
+      "date": "2016",
+      "awarder": "CompFest 8, Universitas Indonesia",
+      "summary": "My team did Hackathon Contest and made a mobile app named <b>Neraca</b>"
+    },
+    {
+      "title": "Finalist (Team)",
+      "date": "2016",
+      "awarder": "FIT Competition 2016, Universitas Kristen Satya Wacana",
+      "summary": "I joined in Mavisang Team and reached final (TOP 10) for Network Category in this national competition"
     },
     {
       "title": "DPP of The Year (Individual)",
@@ -197,17 +199,18 @@
       "summary": "Achievement for Most Dedicated Member in DPP HMIF"
     },
     {
+      "title": "Best Graduate (Individual)",
+      "date": "2013",
+      "awarder": "SMAN 13 Jakarta",
+      "summary": "I got highest score for National and School Test in my high school"
+    },
+    {
       "title": "Semifinalist (Team)",
       "date": "2013",
       "awarder": "Medical Science and Application Competition 2012, FK Universitas Airlangga",
       "summary": "My team reached semifinal (TOP 20) in this regional competition (Se Jawa-Bali)"
-    },
-    {
-      "title": "Finalist (Team)",
-      "date": "2016",
-      "awarder": "FIT Competition 2016, Universitas Kristen Satya Wacana",
-      "summary": "I joined in Mavisang Team and reached final (TOP 10) for Network Category in this national competition"
     }
+    
   ],
   "references": [
     {

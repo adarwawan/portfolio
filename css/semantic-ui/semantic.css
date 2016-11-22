@@ -23797,8 +23797,8 @@ Floated Menu / Item
   background: rgba(0, 0, 0, 0.05);
 }
 
-.ui.cards > .card > .image > img,
-.ui.card > .image > img {
+.ui.cards > .card > .image > a > img,
+.ui.card > .image > a > img {
   display: block;
   width: 100%;
   height: auto;
